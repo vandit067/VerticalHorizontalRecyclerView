@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView2/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/patelv1/.android/build-cache/7c9c580a060890cd48c973c1c9577854810b221b/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/patelv1/.android/build-cache/7c9c580a060890cd48c973c1c9577854810b221b/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/patelv1/.android/build-cache/7c9c580a060890cd48c973c1c9577854810b221b/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView2/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/patelv1/.android/build-cache/7c9c580a060890cd48c973c1c9577854810b221b/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

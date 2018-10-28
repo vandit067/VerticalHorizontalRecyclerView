@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/patelv1/.android/build-cache/359ce1dcc08b66e3af6d64a5141936d21d625b94/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/7c9c580a060890cd48c973c1c9577854810b221b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07da81f5e90915339188a5130f878273cc1d3335/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/92bb886c38054eb8e9ac29351757cc6c8d32c2c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e386e334bcf3100badee4fdefa45c0a6f42839f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/5d4e0ff5c3e5e4f117684f96511f0f1e7a6c71a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f898697744e406bc5d9a1c4e6763bc0df074abc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="917886790e0eb1ba0efab5eb85174a2b49b09aa1">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_20361cb441dab4bd7559fbc0d1a5af5dc5172eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/4dce2c3146394d8e8e001e1cc5fc8c098c5c00bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b892496a3268ca40a2eda8de4edda7162080fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/2f8b87fe6088460e7a9deff57a07964c92478f26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e79d085585b950911662a3c89d8c6bb1fa0eb66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/Desktop/Vandit/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7fc5ee1f826c8a95a68b1e813535b767e475797d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/9836be9121cd818ed109febb693d350c47c3d021/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0a0b9c665592a58c9907ceb493e86cd29e67d0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/3570fc10bd7f145227220875226fa119ee78fc04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3697936917af41797a29691b4029639954ab9797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/604d08e6812b880a0e403e43d3a1d0ccfc169f21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2395eebb104aadfdfe1dcec9190aef4218e651f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/8908c6a8fa7bbeef7dc4bcc5f73ce9f0a946e92c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7dd4125b454057e8b4dafe906039778569b96c70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/Desktop/Vandit/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_138df63d3fce93be3abb68a5d9bc4e6021b631de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d7e139b9924e419cadfe7c6ff9b436890c8b8e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/4761b0e8e638b94061ed23f315136d64c539af9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55da65abea082bbaebb8492979c6e14bde937e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/e81b9d1d74be1e5797316eb13fe93190f70a946c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21efb0a52a7aadc87242fd8c99eeedf4166b3b83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/677fcccbacc88c1c2b5ace5c6b0f365520e36fc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97aeed065a51af43228ad55d806f7e1e13722d1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/56a78d392e5a10047b0dba7329770c717e83cc82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d1dee8dd2a3a0c57d3539bb4395bef3d0597f39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patelv1/.android/build-cache/b69d453ad953f6d64eea3865cd79a659a96f681c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62b64794f19f59c030f6bbf216d07da10ea88b57/classes.dex" />
+    </item>
+
+</items>

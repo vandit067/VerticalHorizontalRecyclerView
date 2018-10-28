@@ -1,0 +1,4 @@
+#Sat Oct 27 19:01:31 EDT 2018
+base.0=/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

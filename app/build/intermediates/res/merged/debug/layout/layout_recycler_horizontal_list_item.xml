@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:layout_gravity="center"
+    app:cardBackgroundColor="#E0E0E0"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="4dp"
+    app:cardPreventCornerOverlap="true">
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:background="#E0E0E0"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/layout_recycler_horizontal_list_item_ll_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <ProgressBar
+                android:id="@+id/layout_recycler_horizontal_list_item_pb_view"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_centerInParent="true"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/layout_recycler_horizontal_list_item_iv_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:importantForAccessibility="no"
+                android:padding="5dp"
+                android:src="@mipmap/ic_launcher_round" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/layout_recycler_horizontal_list_item_btn_title"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:text="test" />
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

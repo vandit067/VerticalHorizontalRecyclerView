@@ -1,0 +1,7 @@
+#Sat Oct 27 19:01:46 EDT 2018
+base.0=/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_20361cb441dab4bd7559fbc0d1a5af5dc5172eb6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d7e139b9924e419cadfe7c6ff9b436890c8b8e46/classes.dex
+base.1=/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d7e139b9924e419cadfe7c6ff9b436890c8b8e46
+file.0=/Users/patelv1/Desktop/Vandit/StudioProjects/VerticalHorizontalRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_20361cb441dab4bd7559fbc0d1a5af5dc5172eb6/classes.dex
